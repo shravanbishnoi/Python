@@ -13,6 +13,8 @@ def ListOfSquares(n):
 	
 	Parameter n: is the number
 	Precondition: n must be a integer"""
+	assert type(n)==int, f'{n} is not a integer'
+	
 	# Using list comprehension
 	# lst = [i*i for i in range(n) if i*i<n]
 
