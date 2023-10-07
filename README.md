@@ -1,2 +1,2 @@
 # Semester1
-I have created this repo to upload my codes that I have done during my first semester to build my fundamentals in Python. I have coded problems that a beginner should attempt and try to solve to shape his/her Python fundamentals and build up the strong concepts in Python.
+This GitHub repository is dedicated to storing and managing all the python code related to my Programming Abstraction (Python) course. Throughout my first semester, I will be working on various programming problems and tasks that will be stored here. I cordially invite you to explore the codebase and give your valuable feedback and suggestions. This will help my programming skills to improve and build my fundamentals in python.
