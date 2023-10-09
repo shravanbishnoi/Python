@@ -1,0 +1,44 @@
+{   "version"       : 1.0,
+	"comment"       : "Alternate wave made by beta tester Matthew Karwan",
+    "ship"          : {
+        "position" : [600,600],
+        "angle"    : 225
+    },
+    "asteroids"    : [
+        {
+            "size"      : "large",
+            "position"  : [168, 606],
+            "direction" : [34, -5]
+        },
+        {
+            "size"      : "large",
+            "position"  : [400, 350],
+            "direction" : [-9, -57]
+        },
+        {
+            "size"      : "medium",
+            "position"  : [279, 195],
+            "direction" : [-90, -22]
+        },
+        {
+            "size"      : "medium",
+            "position"  : [198,367],
+            "direction" : [-20, -45]
+        },
+        {
+            "size"      : "small",
+            "position"  : [150, 169],
+            "direction" : [-20, 49]
+        },
+        {
+            "size"      : "small",
+            "position"  : [659, 179],
+            "direction" : [79, 79]
+        },
+                {
+            "size"      : "small",
+            "position"  : [620, 250],
+            "direction" : [-20, -53]
+        }
+    ]
+}
