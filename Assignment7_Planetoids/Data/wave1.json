@@ -1,0 +1,39 @@
+{   "version"       : 1.0,
+	"comment"       : "Canonical wave used for grading purposes",
+    "ship"          : {
+        "position" : [400,350],
+        "angle"    : 90
+    },
+    "asteroids"    : [
+        {
+            "size"      : "large",
+            "position"  : [751, 443],
+            "direction" : [57, 93]
+        },
+        {
+            "size"      : "large",
+            "position"  : [304, 148],
+            "direction" : [-42, 57]
+        },
+        {
+            "size"      : "medium",
+            "position"  : [257, 605],
+            "direction" : [-57, -22]
+        },
+        {
+            "size"      : "medium",
+            "position"  : [367,477],
+            "direction" : [61, 80]
+        },
+        {
+            "size"      : "small",
+            "position"  : [607, 403],
+            "direction" : [-20, 53]
+        },
+        {
+            "size"      : "small",
+            "position"  : [173, 541],
+            "direction" : [91, 36]
+        }
+    ]
+}

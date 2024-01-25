@@ -1,0 +1,19 @@
+{   "version"       : 1.0,
+	"comment"       : "Simple wave with two moving asteroids",
+    "ship"          : {
+        "position" : [400,350],
+        "angle"    : 270
+    },
+    "asteroids"    : [
+        {
+            "size"      : "medium",
+            "position"  : [257, 605],
+            "direction" : [-57, -22]
+        },
+        {
+            "size"      : "medium",
+            "position"  : [367,477],
+            "direction" : [61, 80]
+        }
+    ]
+}

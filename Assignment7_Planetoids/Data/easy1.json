@@ -1,0 +1,14 @@
+{   "version"       : 1.0,
+	"comment"       : "Simple wave with stationary asteroid",
+    "ship"          : {
+        "position" : [400,350],
+        "angle"    : 45
+    },
+    "asteroids"    : [
+        {
+            "size"      : "large",
+            "position"  : [451, 443],
+            "direction" : [0, 0]
+        }
+    ]
+}

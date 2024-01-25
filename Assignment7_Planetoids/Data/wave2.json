@@ -1,0 +1,29 @@
+{   "version"       : 1.0,
+	"comment"       : "Alternate wave made by beta tester Vin Bui",
+    "ship"          : {
+        "position" : [400,350],
+        "angle"    : 123
+    },
+    "asteroids"    : [
+        {
+            "size"      : "small",
+            "position"  : [300, 500],
+            "direction" : [45, -20]
+        },
+        {
+            "size"      : "small",
+            "position"  : [350, 125],
+            "direction" : [-20, 55]
+        },
+        {
+            "size"      : "medium",
+            "position"  : [550, 200],
+            "direction" : [-75, 10]
+        },
+        {
+            "size"      : "large",
+            "position"  : [500, 550],
+            "direction" : [0, 0]
+        }
+    ]
+}
