@@ -14,9 +14,6 @@ from game2d import *
 from wave import *
 import json
 
-# PRIMARY RULE: Planetoids can only access attributes in wave.py via getters/setters
-# Planetoids is NOT allowed to access anything in models.py
-
 class Planetoids(GameApp):
     """
     The primary controller class for the Planetoids application
