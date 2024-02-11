@@ -8,7 +8,6 @@ Date: 25-01-2023
 """
 
 
-
 def christmas(first_row, incr, num_rows, line_width):
 	"""prints christmas tree using asterisk.
 
