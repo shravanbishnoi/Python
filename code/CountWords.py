@@ -6,6 +6,7 @@ occurrence of the given word
 
 Author: Shravan
 Date: 20-01-2023
+
 """
 
 first = input("Enter the first string: ")          # Reads the first input
