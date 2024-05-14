@@ -17,7 +17,7 @@ def Cal_GCD(a,b):
 	precondition: a must be positive integer
 
 	parameter b: is a input integer
-	precondition: b must be positive integer
+	precondition: b must be positive integer.
 	"""
 	global count_frame
 	assert type(a) and type(b) == int, repr(a) + ',' + str(b) + ' is not integer'
