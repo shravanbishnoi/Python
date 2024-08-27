@@ -6,6 +6,7 @@ A node with the lowest value amongst its adjacent nodes.
 Author: Shravan
 Date: 27-Aug-2024
 """
+
 class Node:
     """A class representing a Node"""
 
